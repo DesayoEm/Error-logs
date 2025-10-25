@@ -4,7 +4,7 @@ Welcome to my personal collection of mistakes, solutions, and debugging notes.
 
 This repository documents errors and fixes I've encountered while working with different tools. 
 
-I'd throw in here about collecting bugs like pokemon cards but I bet no one was having fun when these occurred. 💀
+I'd throw a joke in here about collecting bugs like pokemon cards but I bet no one was having fun when these occurred. 💀
 
 ---
 
@@ -41,5 +41,5 @@ I'd throw in here about collecting bugs like pokemon cards but I bet no one was 
 
 ## Why This Exists
 
-Let's build a collection of "been there, debugged that" notes together, hoping it helps someone someday. 
+To build a collection of "been there, debugged that" notes together, hoping it helps someone someday. 
 * **And hey, some of us like to read old error messages for the fun of it.** 🤷🏽‍♀️
